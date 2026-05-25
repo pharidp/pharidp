@@ -74,7 +74,7 @@ I'm a **Senior DevOps & Cloud Automation Engineer** with **8+ years** of experie
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hari%20Paruchuri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parum011/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hari%20Paruchuri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parumlink/)
 [![GitHub](https://img.shields.io/badge/GitHub-pharidp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pharidp)
 
 </div>
@@ -127,7 +127,7 @@ I'm always open to discussing **DevOps practices**, **cloud architecture**, **se
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parum011/)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parumlink/)
 
 <br/>
 
